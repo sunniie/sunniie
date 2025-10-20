@@ -10,18 +10,10 @@
 
 ## 🚀 About Me
 
-```typescript
-const vinh = {
-    name: "Lê Quang Vinh",
-    username: "sunniie",
-    location: "Việt Nam 🇻🇳",
-    education: "Computer Science Student",
-    interests: ["Web Development", "AI/ML", "Automation", "Testing"],
-    currentlyLearning: ["BMAD-METHOD™", "Playwright", "React", "TypeScript"],
-    funFact: "I build apps with AI Agents! 🤖"
-};
-```
+**Founder and Lead Instructor at VT Academy**, aiming to become an AI Solution Architect.
 
+- � I guide scientific research projects for high school students and university students
+- 🏫 Contact me to join courses at VT Academy
 - 🔭 I'm currently working on **AI-powered web applications**
 - 🌱 I'm learning **BMAD-METHOD™ Framework** and **Playwright Testing**
 - 💬 Ask me about **React, TypeScript, Python, AI Agents**
@@ -54,11 +46,8 @@ const vinh = {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-### AI & Productivity
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![BMAD-METHOD](https://img.shields.io/badge/-BMAD--METHOD-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -80,45 +69,14 @@ const vinh = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sunniie&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📌 Pinned Projects
-
-<div align="center">
-
-[![bmad-todo-demo](https://github-readme-stats.vercel.app/api/pin/?username=sunniie&repo=bmad-todo-demo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9)](https://github.com/sunniie/bmad-todo-demo)
-
-[![simple-chatbot-web](https://github-readme-stats.vercel.app/api/pin/?username=sunniie&repo=simple-chatbot-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9)](https://github.com/sunniie/simple-chatbot-web)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Vinh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunniie&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinhle03092004@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunniie)
-[![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://viboh-class.io.vn)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vthon-class.io.vn/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vtacademy2025)
 
 </div>
 
@@ -132,7 +90,7 @@ const vinh = {
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/sunniie/count.svg)
+<img src="https://komarev.com/ghpvc/?username=sunniie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
 
