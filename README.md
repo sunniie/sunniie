@@ -14,9 +14,6 @@
 
 - � I guide scientific research projects for high school students and university students
 - 🏫 Contact me to join courses at VT Academy
-- 🔭 I'm currently working on **AI-powered web applications**
-- 🌱 I'm learning **BMAD-METHOD™ Framework** and **Playwright Testing**
-- 💬 Ask me about **React, TypeScript, Python, AI Agents**
 - 📫 Reach me: **vinhle03092004@gmail.com**
 - ⚡ Fun fact: **I automate everything I can!**
 
