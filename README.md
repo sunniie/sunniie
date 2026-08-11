@@ -1,68 +1,76 @@
 <div align="center">
-  
-# 👋 Hi, I'm Lê Quang Vinh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;BMAD-METHOD%E2%84%A2+Practitioner+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+# Hi, I'm Lê Quang Vinh
+
+### AI Engineer · Developer Tool Builder · Technical Educator
+
+I build practical AI skills, developer tools, and learning systems that turn complex workflows into reliable, reusable products.
+
+[![GitHub](https://img.shields.io/badge/GitHub-sunniie-181717?style=flat-square&logo=github)](https://github.com/sunniie) [![Website](https://img.shields.io/badge/VIMIC-vimiclass.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://vimiclass.com) [![Email](https://img.shields.io/badge/Email-vinhle03092004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinhle03092004@gmail.com)
 
 </div>
 
----
+## What I'm building
 
-## 🚀 About Me
+- **NexCanvas** — independently installable AI skills for creating polished technical artifacts with strong discovery, source accuracy, and visual QA.
+- **VIMIC** — learning systems and technical education experiences designed around practical projects and measurable progress.
+- **Applied AI tooling** — source-aware agents, workflow automation, evaluation pipelines, and developer experience tools.
 
-**Founder and Lead Instructor at VT Academy**, aiming to become an AI Solution Architect.
+I currently work as an **AI Engineer at FPT Software** and build VIMIC as its **Founder & Lead Developer** in Việt Nam.
 
-- � I guide scientific research projects for high school students and university students
-- 🏫 Contact me to join courses at VT Academy
-- 📫 Reach me: **vinhle03092004@gmail.com**
-- ⚡ Fun fact: **I automate everything I can!**
+## Featured open-source release
 
----
+### [NexCanvas Draw.io](https://github.com/sunniie/nexcanvas-drawio)
 
-## 🛠️ Tech Stack
+[![Repository](https://img.shields.io/badge/Repository-nexcanvas--drawio-181717?style=flat-square&logo=github)](https://github.com/sunniie/nexcanvas-drawio) [![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](https://github.com/sunniie/nexcanvas-drawio/blob/main/LICENSE) [![Built with](https://img.shields.io/badge/Built_for-Codex-2563EB?style=flat-square)](https://github.com/sunniie/nexcanvas-drawio)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,vite,nodejs,express,playwright,jest,git,github,vscode,docker,mysql" />
-</p>
+A source-aware Draw.io skill for Codex that turns real system behavior into editable architecture diagrams and detailed request flows.
 
----
+[![NexCanvas Draw.io compact monochrome example](https://raw.githubusercontent.com/sunniie/nexcanvas-drawio/main/assets/examples/compact-monochrome-system-flow.png)](https://github.com/sunniie/nexcanvas-drawio)
 
-## 📊 GitHub Stats
+- Collaborative intake: choose **Architecture Overview** or **Detailed Request Flow**, then choose a visual style.
+- Color Visual and Compact Monochrome grammars, plus support for user-provided references.
+- Native `.drawio` sources and PNG/SVG/PDF exports with embedded diagram XML.
+- Automated checks for connector geometry, label clearance, density, badge consistency, and workflow composition.
+
+```text
+$skill-installer Install the Draw.io skill from https://github.com/sunniie/nexcanvas-drawio and name it drawio.
+```
+
+## Skills & developer tools
+
+This catalog lists released public projects only. Every skill or tool gets its own focused repository, documentation, examples, and validation workflow.
+
+<!-- NEXCANVAS_CATALOG:START -->
+
+| Project | Category | What it helps with | Status |
+|---|---|---|---|
+| [**nexcanvas-drawio**](https://github.com/sunniie/nexcanvas-drawio) | Codex skill · diagrams | Architecture, request flows, ERDs, network diagrams, editable exports, and visual QA | Public · active |
+
+<!-- NEXCANVAS_CATALOG:END -->
+
+New NexCanvas skills and standalone developer tools will be added here as they are released.
+
+## How I approach tools
+
+1. **Inspect the real source** before generating an artifact or recommendation.
+2. **Separate content decisions from visual style** so examples never become rigid templates.
+3. **Automate repeatable QA** while keeping a final human-readable review step.
+4. **Ship editable outputs and clear installation instructions**, not demonstration-only screenshots.
+5. **Keep repositories focused** so each skill or tool can evolve and be installed independently.
+
+## Technologies I reach for
+
+`Python` · `TypeScript` · `React` · `FastAPI` · `Supabase` · `PostgreSQL` · `Docker` · `GitHub Actions` · `Google Cloud`
+
+## Connect
+
+- Website: [vimiclass.com](https://vimiclass.com)
+- Email: [vinhle03092004@gmail.com](mailto:vinhle03092004@gmail.com)
+- GitHub: [@sunniie](https://github.com/sunniie)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sunniie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sunniie&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9"/>
+**Building useful AI skills and developer tools, one focused repository at a time.**
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunniie&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-##  Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinhle03092004@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunniie)
-[![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vthon-class.io.vn/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vtacademy2025)
-
-</div>
-
----
-
-<div align="center">
-
-###  Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=sunniie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
