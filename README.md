@@ -18,38 +18,19 @@ I build practical AI skills, developer tools, and learning systems that turn com
 
 I currently work as an **AI Engineer at FPT Software** and build VIMIC as its **Founder & Lead Developer** in Việt Nam.
 
-## Featured open-source release
+## Open-source projects
 
-### [NexCanvas Draw.io](https://github.com/sunniie/nexcanvas-drawio)
-
-[![Repository](https://img.shields.io/badge/Repository-nexcanvas--drawio-181717?style=flat-square&logo=github)](https://github.com/sunniie/nexcanvas-drawio) [![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](https://github.com/sunniie/nexcanvas-drawio/blob/main/LICENSE) [![Built with](https://img.shields.io/badge/Built_for-Codex-2563EB?style=flat-square)](https://github.com/sunniie/nexcanvas-drawio)
-
-A source-aware Draw.io skill for Codex that turns real system behavior into editable architecture diagrams and detailed request flows.
-
-[![NexCanvas Draw.io compact monochrome example](https://raw.githubusercontent.com/sunniie/nexcanvas-drawio/main/assets/examples/compact-monochrome-system-flow.png)](https://github.com/sunniie/nexcanvas-drawio)
-
-- Collaborative intake: choose **Architecture Overview** or **Detailed Request Flow**, then choose a visual style.
-- Color Visual and Compact Monochrome grammars, plus support for user-provided references.
-- Native `.drawio` sources and PNG/SVG/PDF exports with embedded diagram XML.
-- Automated checks for connector geometry, label clearance, density, badge consistency, and workflow composition.
-
-```text
-$skill-installer Install the Draw.io skill from https://github.com/sunniie/nexcanvas-drawio and name it drawio.
-```
-
-## Skills & developer tools
-
-This catalog lists released public projects only. Every skill or tool gets its own focused repository, documentation, examples, and validation workflow.
+A growing collection of focused AI skills and developer tools. Each project has its own repository, documentation, examples, and release lifecycle.
 
 <!-- NEXCANVAS_CATALOG:START -->
 
-| Project | Category | What it helps with | Status |
+| Project | Type | Summary | Status |
 |---|---|---|---|
-| [**nexcanvas-drawio**](https://github.com/sunniie/nexcanvas-drawio) | Codex skill · diagrams | Architecture, request flows, ERDs, network diagrams, editable exports, and visual QA | Public · active |
+| [**NexCanvas Draw.io**](https://github.com/sunniie/nexcanvas-drawio) | Codex skill | Source-aware architecture and request-flow diagrams with editable outputs and visual QA | Active |
 
 <!-- NEXCANVAS_CATALOG:END -->
 
-New NexCanvas skills and standalone developer tools will be added here as they are released.
+New projects will be added here when they are ready to use.
 
 ## How I approach tools
 
