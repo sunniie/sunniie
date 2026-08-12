@@ -27,6 +27,7 @@ A growing collection of focused AI skills and developer tools. Each project has 
 | Project | Type | Summary | Status |
 |---|---|---|---|
 | [**NexCanvas Draw.io**](https://github.com/sunniie/nexcanvas-drawio) | Codex skill | Source-aware architecture and request-flow diagrams with editable outputs and visual QA | Active |
+| [**NexCanvas Slides**](https://github.com/sunniie/nexcanvas-slides) | Codex skill | Research-first slide images with dual generation, anonymous evaluation, and visual QA | Active |
 
 <!-- NEXCANVAS_CATALOG:END -->
 
