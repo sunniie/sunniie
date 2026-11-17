@@ -12,9 +12,9 @@ I build practical AI skills, developer tools, and learning systems that turn com
 
 ## What I'm building
 
-- **NexCanvas** — independently installable AI skills for creating polished technical artifacts with strong discovery, source accuracy, and visual QA.
+- **NexCanvas** — independently installable AI skills and agent tools: polished technical artifacts with strong discovery, source accuracy, and visual QA, plus a local office that orchestrates teams of coding agents.
 - **VIMIC** — learning systems and technical education experiences designed around practical projects and measurable progress.
-- **Applied AI tooling** — source-aware agents, workflow automation, evaluation pipelines, and developer experience tools.
+- **Applied AI tooling** — source-aware agents, multi-agent orchestration, workflow automation, evaluation pipelines, and developer experience tools.
 
 I currently work as an **AI Engineer at FPT Software** and build VIMIC as its **Founder & Lead Developer** in Việt Nam.
 
@@ -28,6 +28,7 @@ A growing collection of focused AI skills and developer tools. Each project has 
 |---|---|---|---|
 | [**NexCanvas Draw.io**](https://github.com/sunniie/nexcanvas-drawio) | Codex skill | Source-aware architecture and request-flow diagrams with editable outputs and visual QA | Active |
 | [**NexCanvas Slides**](https://github.com/sunniie/nexcanvas-slides) | Codex skill | Research-first slide images with dual generation, anonymous evaluation, and visual QA | Active |
+| [**NexCanvas Agent Manager**](https://github.com/sunniie/nexcanvas-agent-manager) | Local app | Pixel-art office where a lead agent staffs, delegates to, and reviews Claude Code and Codex agents, with git worktrees and quota-aware auto-resume | Active |
 
 <!-- NEXCANVAS_CATALOG:END -->
 
